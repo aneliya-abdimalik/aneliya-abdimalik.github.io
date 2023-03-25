@@ -1,0 +1,71 @@
+
+.container {
+  display: flex;
+}
+  .right {
+    padding: 60px 20px;
+    text-align: justify;
+  }
+  .left {
+      min-height:100%;  
+      height:auto;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  .get{
+    font-size: 30px;
+    color:#2A4A5C;
+  }
+  .obligation{
+    padding-top: 3px;
+    font-size: 22px;
+    color:#7B8A92;
+  }
+
+  .button{
+    display: inline-block;
+  }
+
+  .button1{
+    background-color:#255A9B;
+    font-size: medium;
+    height: 40px;
+    width: 250px;
+    color: white;
+  }
+
+  .button2{
+    background-color:#0076B6;
+    font-size: medium;
+    height: 40px;
+    width: 250px;
+    color: white
+  }
+
+  .or{
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 20px 0 20px; 
+  }
+
+  .investor{
+    padding: 6px;
+    font-size: 25px;
+    color:#255A9B
+  }
+
+.trans{
+    margin-top: 60px;
+    margin-bottom: 20px;
+    background-color: white;
+    color:#7B8A92;
+    font-size: medium;
+}
+
+.create{
+    margin-top: 20px;
+    background-color: #0076B6;
+    color:white;
+    height: 35px;
+}
